@@ -1,5 +1,5 @@
 {
-  "name": "moviesearch",
+  "name": "imdb-fetchmovie",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
